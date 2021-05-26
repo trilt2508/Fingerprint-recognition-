@@ -1,4 +1,4 @@
-# Fingerprint-recognition-
+# Fingerprint Recognition
 * BTL Nhập môn An toàn thông tin
 * Mô tả yêu cầu: Tìm hiểu và xây dựng chương trình nhận diện vân tay
 * Một số hình ảnh minh họa:
