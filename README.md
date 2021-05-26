@@ -38,13 +38,13 @@
 
   + Trích chọn đặc trưng singularities:
  
- ![image](https://user-images.githubusercontent.com/62825098/119702420-a4351b80-be7f-11eb-9a1d-44f1fcb2be9e.png)
+  ![image](https://user-images.githubusercontent.com/62825098/119702420-a4351b80-be7f-11eb-9a1d-44f1fcb2be9e.png)
 
 
 - Đối sánh: 
   + Vân tay có trong cơ sở dữ liệu:
  
- ![image](https://user-images.githubusercontent.com/62825098/119704087-73ee7c80-be81-11eb-847e-6f11a8ead93f.png)
+  ![image](https://user-images.githubusercontent.com/62825098/119704087-73ee7c80-be81-11eb-847e-6f11a8ead93f.png)
   
   + Vân tay không tồn tại trong cơ sở dữ liệu:
   
