@@ -44,7 +44,7 @@
 - Đối sánh: 
   + Vân tay có trong cơ sở dữ liệu:
  
- ![image](https://user-images.githubusercontent.com/62825098/119702544-c5960780-be7f-11eb-87c0-0f2010c119af.png)
+ ![image](https://user-images.githubusercontent.com/62825098/119704087-73ee7c80-be81-11eb-847e-6f11a8ead93f.png)
   
   + Vân tay không tồn tại trong cơ sở dữ liệu:
   
